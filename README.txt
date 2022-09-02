@@ -1,4 +1,4 @@
-Jumper Game:
+##Jumper Game**:
 - The obejctive of the game is to try to avoid the monsters coming on your way.
 
 **Rules**:

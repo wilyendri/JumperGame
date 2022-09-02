@@ -1,7 +1,7 @@
 Jumper Game:
 - The obejctive of the game is to try to avoid the monsters coming on your way.
 
-Rules:
+**Rules**:
 -The character has 3 lives.
 -If the monster touches the character, you lose one life.
 -The player has to jump in order to evade the monsters
@@ -12,13 +12,13 @@ Rules:
 	- When the character has been hit by a monster
 -The game ends when the player has run out of lives
 
-Controls:
+**Controls**:
 -Space Bar allows the character to jump in order to evade the monsters.
 -The right key arrow moves character to the right of the screen.
 -The left key arrow moves character to the left of the screen.
 -ESC or Q exits the game.
 
-Settings:
+**Settings**:
 To modify the game settings, it must be through the Settings class.
 This class specifies the behaviour of the character and monsters.
 These behaviours are:
@@ -30,7 +30,7 @@ These behaviours are:
 -speed increment scale,
 -how often increment the speed.
 
-Running Game:
+**_Running_ _Game_**:
 In order to run the game, the jumper.py must be executed. 
 The game will initiliaze with a play button on the screen.
 Once the button has been cliked, the game starts.
